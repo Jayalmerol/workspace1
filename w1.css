@@ -1,0 +1,41 @@
+body{
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  background-color: #0C1527;
+  padding: 20px;
+}
+
+#f1{
+  padding: 10px
+}
+
+type="text"], input[type="email"] {
+  border: 1px solid #FF9E03;
+  background-color: #17233B;
+  color: #FFFFFF;
+  font-weight: bold;
+  
+}
+input[type='submit'] {
+  background-color: #149EF2;
+  border-radius: 5px;
+  border: none;
+  font-weight: bold;
+  color: white;
+  
+}
+
+input[type='submit']:active {
+  background-color: #0C1527;
+  color: #FF9E03;
+  border: 1px solid #FF9E03;
+  border-radius: 5px;
+}
+
+#dropdown{
+  background-color: #149EF2;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
